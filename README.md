@@ -3,17 +3,17 @@ A SQL project that aim to provide Maven Toys, a fictional chain of toy stores in
 
 ## Table of Content
 
-- [Project Overview](https://github.com/OchukoEjemudaro/Maven-Toys-Sales-Analysis#project-overview)
-- [Project Scope](https://github.com/OchukoEjemudaro/Maven-Toys-Sales-Analysis#project-scope)
-- [Business Objective](https://github.com/OchukoEjemudaro/Maven-Toys-Sales-Analysis#business-objective)
-- [Document Purpose](https://github.com/OchukoEjemudaro/Maven-Toys-Sales-Analysis#document-purpose)
-- [Use Case](https://github.com/OchukoEjemudaro/Maven-Toys-Sales-Analysis#use-case)
-- [Skills Demostrated](https://github.com/OchukoEjemudaro/Maven-Toys-Sales-Analysis#skills-demostrated)
-- [Data Source](https://github.com/OchukoEjemudaro/Maven-Toys-Sales-Analysis#data-source)
-- [Data Cleaning and Processing](https://github.com/OchukoEjemudaro/Maven-Toys-Sales-Analysis#data-cleaning-and-processing)
-- [Data Analysis and Insight](https://github.com/OchukoEjemudaro/Maven-Toys-Sales-Analysis#data-analysis-and-insight)
-- [Recommembdation](https://github.com/OchukoEjemudaro/Maven-Toys-Sales-Analysis#recommendation)
-- [Conclusion](https://github.com/OchukoEjemudaro/Maven-Toys-Sales-Analysis#conclusion)
+- Project Overview
+- Project Scope
+- Business Objective
+- Document Purpose
+- Use Case
+- Skills Demostrated
+- Data Source
+- Data Cleaning and Processing
+- Data Analysis and Insight
+- Recommembdation
+- Conclusion
 
 ## Project Overview
 The Maven Toy Sales and Inventory Analysis project aim to provide Maven Toys, a fictional chain of toy stores in Mexico, with actionable insights into product profitability, seasonal sales trends, stockouts impact, and inventory efficiency.
